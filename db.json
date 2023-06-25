@@ -1,0 +1,65 @@
+{
+    "foods": [
+        {
+            "id": 1,
+            "name": "Beer",
+            "price": "7.00"
+        },
+        {
+            "id": 2,
+            "name": "Caesar",
+            "price": "7.00"
+        },
+        {
+            "id": 3,
+            "name": "Coke",
+            "price": "3.00"
+        },
+        {
+            "id": 4,
+            "name": "Fried Calamari Rings",
+            "price": "51.00"
+        },
+        {
+            "id": 5,
+            "name": "Fried Mushroom",
+            "price": "12.00"
+        },
+        {
+            "id": 6,
+            "name": "Greek",
+            "price": "7.00"
+        },
+        {
+            "id": 7,
+            "name": "Grilled Chicken Salad",
+            "price": "12.00"
+        },
+        {
+            "id": 8,
+            "name": "Hummus",
+            "price": "10.00"
+        },
+        {
+            "id": 9,
+            "name": "Iced Tea",
+            "price": "3.00"
+        },
+        {
+            "id": 10,
+            "name": "Mediterranean Tuna Salad",
+            "price": "10.00"
+        },
+        {
+            "id": 11,
+            "name": "Spinach Artichoke Dip",
+            "price": "10.00"
+        },
+        {
+            "id": 12,
+            "name": "Water",
+            "price": "3.00"
+        }
+        
+    ]
+}
